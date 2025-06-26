@@ -1,4 +1,6 @@
 Hello World!
 my name is DGswitch
 
+-melakuan edit di belajar-git.txt
+
 //test repo
