@@ -9,3 +9,5 @@ my name is DGswitch
 //test repo
 
 note: test commit via vscode
+
+update: sudah connect local git dengan repo
