@@ -1,0 +1,11 @@
+title: create repo branch pada file belajar-git.txt
+
+
+Hello World!
+my name is DGswitch
+
+-sudah menghapus text pada file belajar-git
+
+//test repo
+
+note: test commit via vscode
